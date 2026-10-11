@@ -1,0 +1,1 @@
+{"schemaVersion":"1.0","configVersion":1,"drawScheduleExceptions":[],"gamePrices":[{"fromRound":1,"toRound":null,"amount":1000}],"fallbackPrizes":[{"fromRound":1,"toRound":null,"rank4":50000,"rank5":5000}],"minSupportedVersion":1,"latestVersion":1,"featureFlags":{"inAppReview":{"enabled":false,"minAppVersion":null}},"dataSourceEnabled":true}
